@@ -1,0 +1,1 @@
+Practicing and improving my code resolving problems from https://projecteuler.net/
